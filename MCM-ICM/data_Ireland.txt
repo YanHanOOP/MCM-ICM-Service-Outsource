@@ -1,0 +1,12 @@
+Dublin,Ireland ; 53.3498053 ; -6.2603097 ; Dundalk,Ireland ; 53.9979451 ; -6.405957
+Blanchardstown,Ireland ; 53.3842081 ; -6.3759736 ; Ashbourne,Ireland ; 53.5111621 ; -6.3973818
+Clonee,Ireland ; 53.4105621 ; -6.4426 ; Dun Buinne,Ireland ; 53.4192677 ; -6.4758856
+Lucan,Ireland ; 53.3572085 ; -6.4498488 ; Kinnegad,Ireland ; 53.4568103 ; -7.1049959
+Kinnegad,Ireland ; 53.4568103 ; -7.1049959 ; Ballinasloe,Ireland ; 53.3287621 ; -8.2269467
+Naas,Ireland ; 53.2205654 ; -6.659307999999999 ; Limerick,Ireland ; 52.6680204 ; -8.6304976
+Cullahill,Ireland ; 52.8186911 ; -7.4746894 ; Cork,Ireland ; 51.8968917 ; -8.4863157
+Newbridge,Ireland ; 53.17507579999999 ; -6.8047467 ; Kilkenny,Ireland ; 52.6541454 ; -7.2447879
+Shankill,Ireland ; 53.2332663 ; -6.1237578 ; Gorey,Ireland ; 52.67573549999999 ; -6.2943022
+Shanno,Ireland ; 52.7124708 ; -8.8730677 ; Gort,Ireland ; 53.0666432 ; -8.8187485
+Limerick,Ireland ; 52.6680204 ; -8.6304976 ; Patrickswell,Ireland ; 52.5982214 ; -8.7068627
+Port,Ireland ; 51.9548652 ; -7.8478425 ; Loughlinstown,Ireland ; 53.2508117 ; -6.141194899999999
